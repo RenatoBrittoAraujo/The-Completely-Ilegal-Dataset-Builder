@@ -1,4 +1,4 @@
-# The completely illegal dataset builder 
+# The Completely Illegal Dataset Builder 
 
 If you don't strictly care about being on the right side of the law and likes to build datasets, this is the place for you!
 
